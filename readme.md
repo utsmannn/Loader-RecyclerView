@@ -1,7 +1,7 @@
 ## Sample Loader for RecyclerView
 
 
-[](https://i.ibb.co/KjjGKhS/paging.gif)
+![](https://i.ibb.co/KjjGKhS/paging.gif)
 
 Loader sample using network state and custom adapter, work with endless recyclerview listener and paging library.
 
